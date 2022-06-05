@@ -1,4 +1,2 @@
 # hi
-this is markdown itioiriutrrtjugetgdhjgdt
-
-## it even updates with github
+I can say whatever I want and it will update, not instantly though.
